@@ -1,0 +1,1 @@
+How to combine two reports into one dashboard in Power BI, build your first report and dashboard
